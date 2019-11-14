@@ -3,8 +3,8 @@ Copyright (CC-BY-NC-SA v4.0) Matthew R. Kisow, D.Sc. 2008-2019.
 
 Version Control Document.
 
-Version 	Description						Date		Filename
-0.1		ISO/OSI Model   					16-SEP-2019	iso.ppt
-1.0		ISO/OSI Model   					16-SEP-2019	iso V1.0.ppt
-2.0		ISO/OSI Model   					09-JUN-2011	iso V2.0.ppt
+Version 	Description									Date			Filename
+0.1		ISO/OSI Model   								16-SEP-2019	iso.ppt
+1.0		ISO/OSI Model   								16-SEP-2019	iso V1.0.ppt
+2.0		ISO/OSI Model   								09-JUN-2011	iso V2.0.ppt
 3.0		The TCP/IP and OSI Network Communication Models.   	07-NOV-2019	TCPIP.pptx
