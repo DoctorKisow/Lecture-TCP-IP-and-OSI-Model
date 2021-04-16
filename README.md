@@ -1,7 +1,7 @@
 # TCPIP and OSI Model
 **TCPIP and OSI Model** – The TCP/IP and OSI Network Communication Models.  
 Matthew R. Kisow, D.Sc. <matthew.kisow@icloud.com>  
-Copyright &copy; Matthew R. Kisow, D.Sc. 2008-2019.
+Copyright &copy; Matthew R. Kisow, D.Sc. 2008-2021.
 
 ## Copyright
 Copyright (CC-BY-NC-SA v4.0)
