@@ -1,5 +1,5 @@
 The TCP/IP and OSI Network Communication Models.
-Copyright (CC-BY-NC-SA v4.0) Matthew R. Kisow, D.Sc. 2008-2024.
+Copyright (CC-BY-NC-SA v4.0) Matthew R. Kisow, D.Sc. 2008-2023.
 
 Version Control Document.
 
